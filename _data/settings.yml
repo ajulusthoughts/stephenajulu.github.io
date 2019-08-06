@@ -35,7 +35,7 @@ disqus-identifier: thoughtsofajulu # Add your shortname for Disqus Comment. For 
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Stephen Ajulu <br>a Web Developer, Graphics Designer & Ethical Hacker
+  hero-title: Hi! I’m <br> Stephen Ajulu<br>A Web Developer, Graphics Designer & Ethical Hacker
 
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/stephenajulu"}
@@ -53,8 +53,7 @@ social:
 
 # About Section
 blurb:
-  Stephen Ajulu is an I.T Expert, Ethical Hacker, Student, Blogger, Researcher and Entrepreneur. He is currently studing for his Bachelor of Science in Information Technology degree. He always had a high level of enjoyment and excitment that comes from being able to solve problems and create new things. The main reason he started his blog was to increase awareness, educate and help him learn more through research. You can visit the blog here: ajulusthoughts.com He is naturally curiuos and an introvert too. He is currently most interested in web applications, networks, cybersecurity, ethical hacking and technology in general.
-  During his free time, he enjoys reading, playing games, blogging, researching(he believe knowledge is power), fine tuning his skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others)
+  Stephen Ajulu is an I.T Expert, Ethical Hacker, Blogger, Researcher and Entrepreneur. He is currently pursuing ...............
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -78,10 +77,10 @@ work-process:
 
 
 # My Team Section
-# team:
- # - title : ""
- #   image : "assets/images/team/member-1.png"
- #   designation : "Project Manager"
+ team:
+  - title : "Stephen Ajulu"
+    image : "assets/images/team/member-1.png"
+    designation : "I.T and Cybersecurity Consultant"
 
 #-------------------------------
 # Skills Section
@@ -92,6 +91,7 @@ skills:
 - {name: Graphic Design, color: '#9473e6', value: '70%'}
 - {name: Ethical Hacking, color: '#bdecf6', value: '65%'}
 - {name: Information Technology, color: '#ffbcaa', value: '90%'}
+- {name: Blogging, color: '#000066', value: '95%'}
 
 
 #-------------------------------
@@ -109,10 +109,10 @@ experience:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: Certified Ethical Hacker, date: '2018', organization: 'Institute of Software Technologies'}
+- {name: Diploma in Information Technology, date: '2017', organization: 'St. Pauls University'}
+- {name: Certificate in Business Information Technology, date: '2016', organization: 'St. Pauls University'}
+- {name: Kenya Certificate of Secondary Education, date: '2014', organization: 'Highway Secondary School'}
 
 
 #-------------------------------
