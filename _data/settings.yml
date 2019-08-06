@@ -45,7 +45,6 @@ social:
 - {icon: "ti-github", link: "https://github.com/stephenajulu/"}
 - {icon: "ti-youtube", link: "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"}
 - {icon: "ti-reddit", link: "https://www.reddit.com/user/4julu"}
-- {icon: "ti-bitcoin", link: "https://www.blockchain.com/btc/address/1DJxuX44dLtTFbBXdaBZUpwhLEh2DLDP5w"}
 
 
 #-------------------------------
@@ -53,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Stephen Ajulu is an I.T Expert, Ethical Hacker, Blogger, Researcher and Entrepreneur. He is currently pursuing ...............
+  Stephen Ajulu is an I.T Expert, Ethical Hacker, Blogger, Researcher and Entrepreneur. He is currently pursui...
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
