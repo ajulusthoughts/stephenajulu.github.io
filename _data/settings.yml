@@ -22,7 +22,7 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics: UA-132349593-4
 
 
 #-------------------------------
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Stephen Ajulu is an I.T Expert, Ethical Hacker, Blogger, Researcher and Entrepreneur. He is currently pursui...
+  Stephen Ajulu is an I.T Expert, Ethical Hacker, Blogger, Researcher and Entrepreneur. He is currently pursuing a ...
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -95,7 +95,6 @@ skills:
 - {name: Search Engine Optimization, color: '#ffff00', value: '76%'}
 - {name: Social Media Marketing, color: '#ff8533', value: '60%'}
 
-
 #-------------------------------
 # Exprerience Section
 
@@ -105,7 +104,6 @@ experience:
 - {name: M&E Secretariate/Tech Support, icon: 'icon-2.png', date: 'Nov 2015 - Dec 2015', organization: 'Ministry if Devolution and Planning, Kenya'}
 - {name: I.T & Cybersecurity Consultant, icon: 'icon-3.png', date: 'Nov 2016 - Present', organization: 'Gogan Investments, Ajulu Technologies and Alusa SS Investments'}
 
-
 #-------------------------------
 # Education Section
 
@@ -114,9 +112,11 @@ education:
 - {name: Bachelor of Science in Information Technology, date: 'Ongoing', organization: 'Mount Kenya University'}
 - {name: Certified Ethical Hacker, date: '2018', organization: 'Institute of Software Technologies'}
 - {name: Diploma in Information Technology, date: '2017', organization: 'St. Pauls University'}
+- {name: Fundamental System Troubleshooting, date: '2016', organization: 'Cybrary.it'}
+- {name: Certificate in Photoshop and Corel Draw, date: '2016', organization: 'Epren College of Professional Studies'}
 - {name: Certificate in Business Information Technology, date: '2016', organization: 'St. Pauls University'}
+- {name: French Level 1, data: '2015', organization: 'Epren College of Proffesional Studies'}
 - {name: Kenya Certificate of Secondary Education, date: '2014', organization: 'Highway Secondary School'}
-
 
 #-------------------------------
 # Services Section
@@ -130,14 +130,14 @@ services:
     active: # Add true to select section
   }
 - {
-    name: UX Design,
-    icon: ti-vector,
+    name: Web Development,
+    icon: ti-world,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: true # Add true to select section
   }
 - {
-    name: Interaction Design,
-    icon: ti-panel,
+    name: Information Technology and Cybersecurity Consultation,
+    icon: ti-desktop,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
   }
