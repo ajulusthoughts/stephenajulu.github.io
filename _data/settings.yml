@@ -8,10 +8,10 @@ phone: +254 726 024 210
 address: Nairobi, Kenya
 
 menu:
-- {name: About, link: '/about/'}
-- {name: Blog, link: '/blog/'}
-- {name: Portfolio, link: '/portfolio/'}
-- {name: Contact, link: '/contact/'}
+- {name: About, link: '/about'}
+- {name: Blog, link: '/blog'}
+- {name: Portfolio, link: '/portfolio'}
+- {name: Contact, link: '/contact'}
 
 
 #-------------------------------
