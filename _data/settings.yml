@@ -93,6 +93,8 @@ skills:
 - {name: Blogging, color: '#000066', value: '95%'}
 - {name: Researching, color: '#00cc00', value: '95%'}
 - {name: Cybersecurity, color: '#cc33ff', value: '76%'}
+- {name: Search Engine Optimization, color: '#ffff00', value: '76%'}
+- {name: Social Media Marketing, color: '#ff6600', value: '60%'}
 
 
 #-------------------------------
