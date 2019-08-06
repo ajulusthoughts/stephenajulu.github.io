@@ -76,10 +76,10 @@ work-process:
 
 
 # My Team Section
- team:
-  - title : "Stephen Ajulu"
-    image : "assets/images/team/member-1.png"
-    designation : "I.T and Cybersecurity Consultant"
+# team:
+#  - title : "Stephen Ajulu"
+#    image : "assets/images/team/member-1.png"
+#    designation : "I.T and Cybersecurity Consultant"
 
 #-------------------------------
 # Skills Section
