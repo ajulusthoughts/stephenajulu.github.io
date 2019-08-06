@@ -86,11 +86,13 @@ work-process:
 
 skills-title: Skills
 skills:
-- {name: Web Development, color: '#fdb157', value: '87%'}
-- {name: Graphic Design, color: '#9473e6', value: '70%'}
-- {name: Ethical Hacking, color: '#bdecf6', value: '65%'}
-- {name: Information Technology, color: '#ffbcaa', value: '90%'}
+- {name: Web Development, color: '#fdb157', value: '77%'}
+- {name: Graphic Design, color: '#9473e6', value: '65%'}
+- {name: Ethical Hacking, color: '#bdecf6', value: '60%'}
+- {name: Information Technology, color: '#ffbcaa', value: '80%'}
 - {name: Blogging, color: '#000066', value: '95%'}
+- {name: Researching, color: '#00cc00', value: '95%'}
+- {name: Cybersecurity, color: '#cc33ff', value: '76%'}
 
 
 #-------------------------------
@@ -108,6 +110,7 @@ experience:
 
 education-title: Education
 education:
+- {name: Bachelor of Science in Information Technology, date: 'Ongoing', organization: 'Mount Kenya University'}
 - {name: Certified Ethical Hacker, date: '2018', organization: 'Institute of Software Technologies'}
 - {name: Diploma in Information Technology, date: '2017', organization: 'St. Pauls University'}
 - {name: Certificate in Business Information Technology, date: '2016', organization: 'St. Pauls University'}
@@ -120,7 +123,7 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Graphics/UI/UX Design,
     icon: ti-palette,
     description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
     active: # Add true to select section
