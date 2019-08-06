@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross - Jekyll Portfolio Template
+title: Stephen Ajulu
 logo: logo.png
 email: steve.fruits@email.com
 phone: +880 2544 658 256
@@ -35,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Stephen Ajulu <br> Web Developer, Graphics/UI/UX designer and Ethical Hacker
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -73,19 +73,10 @@ work-process:
 
 
 # My Team Section
-team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
-
+# team:
+ # - title : ""
+ #   image : "assets/images/team/member-1.png"
+ #   designation : "Project Manager"
 
 #-------------------------------
 # Skills Section
