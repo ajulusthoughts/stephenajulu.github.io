@@ -87,14 +87,13 @@ work-process:
 skills-title: Skills
 skills:
 - {name: Web Development, color: '#fdb157', value: '77%'}
-- {name: Graphic Design, color: '#9473e6', value: '65%'}
+- {name: Graphics/UI/UX Design, color: '#9473e6', value: '65%'}
 - {name: Ethical Hacking, color: '#bdecf6', value: '60%'}
 - {name: Information Technology, color: '#ffbcaa', value: '80%'}
-- {name: Blogging, color: '#3333ff', value: '95%'}
-- {name: Researching, color: '#00cc00', value: '95%'}
+- {name: Researching, color: '#1aff1a', value: '95%'}
 - {name: Cybersecurity, color: '#cc33ff', value: '76%'}
 - {name: Search Engine Optimization, color: '#ffff00', value: '76%'}
-- {name: Social Media Marketing, color: '#ff6600', value: '60%'}
+- {name: Social Media Marketing, color: '#ff8533', value: '60%'}
 
 
 #-------------------------------
@@ -102,9 +101,9 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Monitoring & Evaluation Secretariate, icon: 'icon-1.png', date: 'Nov 2015 - Doc 2014', organization: 'Ministry of Devolution and Planning, Kenya'}
+- {name: M&E Secretariate/Tech Support, icon: 'icon-2.png', date: 'Nov 2015 - Dec 2015', organization: 'Ministry if Devolution and Planning, Kenya'}
+- {name: I.T & Cybersecurity Consultant, icon: 'icon-3.png', date: 'Nov 2016 - Present', organization: 'Gogan Investments, Ajulu Technologies and Alusa SS Investments'}
 
 
 #-------------------------------
