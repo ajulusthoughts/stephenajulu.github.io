@@ -90,7 +90,7 @@ skills:
 - {name: Graphic Design, color: '#9473e6', value: '65%'}
 - {name: Ethical Hacking, color: '#bdecf6', value: '60%'}
 - {name: Information Technology, color: '#ffbcaa', value: '80%'}
-- {name: Blogging, color: '#000066', value: '95%'}
+- {name: Blogging, color: '#3333ff', value: '95%'}
 - {name: Researching, color: '#00cc00', value: '95%'}
 - {name: Cybersecurity, color: '#cc33ff', value: '76%'}
 - {name: Search Engine Optimization, color: '#ffff00', value: '76%'}
