@@ -6,13 +6,12 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I am an I.T Expert, Ethical Hacker, Student, Blogger, Researcher and Entrepreneur. I am currently pursuing a Bachelor of Science in Information Technology degree. I have always had a high level of enjoyment and excitment that comes from being able to solve problems and create new things. It is the main reason i started started this blog, to increase awareness, educate and help people learn more through his research and articles. You can visit the blog here: [ajulusthoughts.com](https://ajulusthoughts.wordpress.com). I am naturally curiuos and an introvert too. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+I am currently most interested in web applications, networks, cybersecurity, ethical hacking and technology in general.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others)
+
+<small>
+Go check out my blog here. Topics range from Technology, Cybersecurity, Ethical Hacking, Privacy, Anonymity to Self Improvement, Career, Business, Fashion and Fitness
+</small> 
