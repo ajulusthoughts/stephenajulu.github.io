@@ -35,7 +35,7 @@ disqus-identifier: thoughtsofajulu # Add your shortname for Disqus Comment. For 
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Stephen Ajulu<br>A Web Developer, Graphics Designer & Ethical Hacker
+  hero-title: Hi! I’m <br> Stephen Ajulu
 
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/stephenajulu"}
