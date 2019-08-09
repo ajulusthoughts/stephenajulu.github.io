@@ -64,16 +64,15 @@ blurb-btn-name: know more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "I conduct a research based on the client's specifications then plan the work"
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "After Research and Planning, i then develop/create/design the product/service"
     
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
+    content : "After Designing and Developing i deliver the desired product/service to the client, with instructions how to operate the product/service"
 
 # My Team Section
 # team:
@@ -110,8 +109,6 @@ experience:
 education-title: Education
 education:
 - {name: Bachelor of Science in Information Technology, date: 'Ongoing', organization: 'Mount Kenya University'}
-- {name: Threat Identification & Investigation, date: '2019', organization: 'IBM Digital'}
-- {name: Cybersecurity Essentials, date: '2019', organization: 'IBM Digital'}
 - {name: Introduction to Cybersecurity, date: '2019', organization: 'IBM Digital & CISCO Netcad'}
 - {name: Introduction to Cloud Computing, date: '2019', organization: 'IBM Digital'}
 - {name: Certified Ethical Hacker, date: '2018', organization: 'Institute of Software Technologies'}
