@@ -110,6 +110,9 @@ experience:
 education-title: Education
 education:
 - {name: Bachelor of Science in Information Technology, date: 'Ongoing', organization: 'Mount Kenya University'}
+- {name: Cybersecurity Essentials, date: '2019', organization: 'IBM Digital'}
+- {name: Introduction to Cybersecurity, date: '2019', organization: 'IBM Digital & CISCO Netcad'}
+- {name: Introduction to Cloud Computing, date: '2019', organization: 'IBM Digital'}
 - {name: Certified Ethical Hacker, date: '2018', organization: 'Institute of Software Technologies'}
 - {name: Diploma in Information Technology, date: '2017', organization: 'St. Pauls University'}
 - {name: Fundamental System Troubleshooting, date: '2016', organization: 'Cybrary.it'}
