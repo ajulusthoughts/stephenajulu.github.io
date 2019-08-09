@@ -110,6 +110,7 @@ experience:
 education-title: Education
 education:
 - {name: Bachelor of Science in Information Technology, date: 'Ongoing', organization: 'Mount Kenya University'}
+- {name: Threat Identification & Investigation, date: '2019', organization: 'IBM Digital'}
 - {name: Cybersecurity Essentials, date: '2019', organization: 'IBM Digital'}
 - {name: Introduction to Cybersecurity, date: '2019', organization: 'IBM Digital & CISCO Netcad'}
 - {name: Introduction to Cloud Computing, date: '2019', organization: 'IBM Digital'}
