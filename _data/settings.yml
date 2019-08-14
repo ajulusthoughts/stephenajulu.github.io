@@ -152,22 +152,22 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image : "assets/images/portfolio/website (1).jpg"
-    url: "#"
+    url: "https://owlsectechnologies.wordpress.com"
     
   - image : "assets/images/portfolio/website (2).jpg"
-    url: "#"
+    url: "https://ajulusthoughts.wordpress.com"
     
-  - image : "assets/images/portfolio/website (3).jpg"
-    url: "#"
+  - image : "assets/images/portfolio/website (7).jpg"
+    url: "https://stephenajulu.com"
     
   - image : "assets/images/portfolio/website (4).jpg"
-    url: "#"
+    url: "https://quevant.weebly.com"
     
   - image : "assets/images/portfolio/website (5).jpg"
-    url: "#"
+    url: "https://05739.wixsite.com/stephenajulu"
 
   - image : "assets/images/portfolio/website (6).jpg"
-    url: "#"
+    url: "https://05739.wixsite.com/quevant"
     
 # Portfolio Page
 portfolio-label:
