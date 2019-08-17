@@ -9,7 +9,9 @@ signature: assets/images/about/signature.png
 Hello! My name is Stephen Ajulu. I live in Nairobi, Kenya.
 I am a Front End Web Developer, Ethical Hacker, Researcher and Graphics/UI/UX Designer. 
 
-I'm currently pursuing a Bachelor of Science in Information Technology. I have always had a high level of enjoyment and excitment that comes from being able to solve problems, create new things and learn(I have an appetite for knowledge). It is the main reason i started started my blog back in 2016, to increase awareness, educate and help people learn through research. You can visit the blog here: [Ajulu's Thoughts](https://ajulusthoughts.wordpress.com). 
+I'm currently pursuing a Bachelor of Science in Information Technology. 
+
+I have always had a high level of enjoyment and excitment that comes from being able to solve problems, create new things and learn(I have an appetite for knowledge). It is the main reason i started started my blog back in 2016, to increase awareness, educate and help people learn through research. You can visit the blog here: [Ajulu's Thoughts](https://ajulusthoughts.wordpress.com). 
 
 I have founded/co-founded some companies i.e. OwlSec Technologies, Ajulu Technologies, Quevant e-Store, Alusa SS Investment among others.
 
