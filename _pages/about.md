@@ -23,12 +23,13 @@ Go check out my blog [here](https://ajulusthoughts.wordpress.com). Topics range 
   </small>
 <br>
 <br>
-## ABOUT THIS WEBSITE
+### ABOUT THIS WEBSITE
+
 This site is built on [Jekyll](https://jekyllrb.com/), the theme i am using is [Kross](https://github.com/themefisher/kross-jekyll-portfolio-template) from [Themefisher](https://themefisher.com/). It is responsive and mobile friendly. I am hosting it on [Github Pages](https://pages.github.com/) for free. I am using [Cloudflare](https://cloudflare.com) as my Content Delivery Service, HTTPS servinng and for DOS protection. Icons are from [Themify](https://themify.me/themify-icons). Fonts are served through [Google Fonts](https://www.google.com/fonts). This is my third website. Version 2 is here: . Version 1:.
 I can help you build yours. 
-#### I went with Jekyll instead of WordPress because:
- - Jekyll is fast - It's a static site what does one expect. Thou i wish my site was faster. According to GTMetrics. My site's YSlow rating is 81% with a page load of 2.1s. Pagespeed rating however is 32%. But i will make improvements eventually.
+##### I went with Jekyll instead of WordPress because:
+ - **Jekyll is fast** - It's a static site what does one expect. Thou i wish my site was faster. According to GTMetrics. My site's YSlow rating is 81% with a page load of 2.1s. Pagespeed rating however is 32%. But i will make improvements eventually.
 
- - Jekyll is more affordable - Let's not pretend that you enjoy paying those 100 dollars for hosting. I honestly never encountered a good WordPress hosting service where it's price was below 70 dollars.
+ - **Jekyll is more affordable** - Let's not pretend that you enjoy paying those 100 dollars for hosting. I honestly never encountered a good WordPress hosting service where it's price was below 70 dollars.
 
- - Jekyll keeps me on my toes - Version 2 of my site had over 800 commits and it barely lasted 2 months. So 800 commits in 2 months. I have come to appreciate Liquid and markdown. The entire website is under my command! Bwahahaha! Basically i have full control. Admin privilages. Root Permision. I can remove things and add things. 
+ - **Jekyll keeps me on my toes** - Version 2 of my site had over 800 commits and it barely lasted 2 months. So 800 commits in 2 months. I have come to appreciate Liquid and markdown. The entire website is under my command! Bwahahaha! Basically i have full control. Admin privilages. Root Permision. I can remove things and add things. 
