@@ -6,16 +6,25 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-I am an I.T Expert, Ethical Hacker, Student, Blogger, Researcher and Entrepreneur. I am currently pursuing a Bachelor of Science in Information Technology degree. I have always had a high level of enjoyment and excitment that comes from being able to solve problems and create new things. It is the main reason i started started this blog, to increase awareness, educate and help people learn more through his research and articles. You can visit the blog here: [ajulusthoughts.com](https://ajulusthoughts.wordpress.com). I am naturally curiuos and an introvert too.
+Hello! My name is Stephen Ajulu. I live in Nairobi, Kenya.
+I am a Front End Web Developer, Ethical Hacker, Researcher and Graphics/UI/UX Designer. I'm currently pursuing a Bachelor of Science in Information Technology. I have always had a high level of enjoyment and excitment that comes from being able to solve problems, create new things and learn(I have an appetite for knowledge). It is the main reason i started started my blog back in 2016, to increase awareness, educate and help people learn through research. You can visit the blog here: [Ajulu's Thoughts](https://ajulusthoughts.wordpress.com). I am naturally curiuos and an INFJ or basically an Introvert.
 
-I have founded/co-founded several companies i.e. OwlSec Technologies, Ajulu Technologies, Quevant e-Store, Alusa SS Investment among others.
+I have founded/co-founded some companies i.e. OwlSec Technologies, Ajulu Technologies, Quevant e-Store, Alusa SS Investment among others.
 
-I created my social media presence because 1) I’ve always had a passion for sharing knowledge and 2) the cybersecurity field is growing in demand faster than we can fill jobs.
+I created my social media presence because i wanted to build my personal brand and also sharing knowledge.
 
 My goal is to spread cybersecurity, ethical hacking, privacy and anonymity awareness and help grow our community in the process.
 
-I am currently most interested in web applications, networks, cybersecurity, ethical hacking and technology in general.
+I am currently most interested in web applications, networks, cybersecurity, ethical hacking, android and technology in general.
 
 During my free time, i enjoy reading, playing games, blogging, researching(i believe knowledge is power), fine tuning my skills, creating things(websites, logos, etc), watching movies(Genres: Sci-Fi, Tortured Genius, Cyberpunk among others)
 
 Go check out my blog [here](https://ajulusthoughts.wordpress.com). Topics range from Technology, Cybersecurity, Ethical Hacking, Privacy, Anonymity to Self Improvement, Career, Business, Fashion and Fitness
+<br>
+<br>
+# ABOUT THIS WEBSITE
+This site is built on Jekyll, the theme i am using is [Kross](https://github.com/themefisher/kross-jekyll-portfolio-template) from Themefisher. it is responsive and mobile friendly. I am hosting it on Github Pages for free. I am using Cloudflare as my Content Delivery Service, HTTPS servinng and for DOS protection. Icons are from Themify. Fonts are served through [Google Fonts](https://www.google.com/fonts). This is my third website. Version 2 is here: . Version 1:.
+I can help you build yours. I went with Jekyll instead of WordPress because:
+1. Jekyll is fast - It's a static site what does one expect. Thou i wish my site was faster. According to GTMetrics. My site's YSlow rating is 81% with a page load of 2.1s. Pagespeed rating however is 32%. But i will make improvements.
+2. Jekyll is more affordable - Let's not pretend that you enjoy paying those 100 dollars for hosting. I honestly never encountered a good WordPress hosting service where it's price was below 70 dollars.
+3. Jekyll keeps me on my toes - Version 2 of my site had over 800 commits and it barely lasted 2 months. So 800 commits in 2 months. I have come to appreciate Liquid and markdown.
