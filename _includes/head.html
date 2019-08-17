@@ -1,13 +1,11 @@
 <head>
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.title }}{% endif %}</title>
-  
+  <link rel="alternate" type="application/rss+xml" title="Stephen Ajulu" href="https://stephenajulu.com/rss.xml"/>
 {% seo %}
-  
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  
   <!-- ** Plugins Needed for the Project ** -->
   <!-- Bootstrap -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/plugins/bootstrap/bootstrap.min.css">
@@ -15,14 +13,20 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/plugins/slick/slick.css">
   <!-- themefy-icon -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/plugins/themify-icons/themify-icons.css">
-
   <!-- Main Stylesheet -->
   <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet">
-  
   <!--Favicon-->
   <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
   <link rel="icon" href="{{ site.baseurl }}/assets/images/favicon.ico" type="image/x-icon">
-
+  {% if page.url == "/404.html" | prepend: {{site.baseurl}} %}
+    <meta http-equiv="refresh" content="20; url={{site.baseurl}}/">
+  {% endif %}
   {% include crisp.html %}
-  
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132349593-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-132349593-3');
+</script>
 </head>
